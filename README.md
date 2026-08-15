@@ -48,7 +48,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Start with the [development guide](docs/development.md) and [architecture documentation](docs/architecture.md).
 
-For agents, follow [AGENTS.md](AGENTS.md).
+For agents, follow [AGENTS.md](AGENTS.md). Active work is tracked in the [execution-plan index](docs/PLANS.md).
 
 ## License
 

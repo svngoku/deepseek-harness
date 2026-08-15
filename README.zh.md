@@ -65,7 +65,7 @@ pnpm dsh web
 
 请先阅读[开发指南](docs/development.md)与[架构文档](docs/architecture.md)。
 
-面向 agent：请遵循 [AGENTS.md](AGENTS.md)。
+面向 agent：请遵循 [AGENTS.md](AGENTS.md)。进行中的工作记录在[执行计划索引](docs/PLANS.md)。
 
 ## 许可证
 
